@@ -10,5 +10,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawshankkumar&theme=radical)]
 
-[![Shashank's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shawshankkumar)](https://github.com/anuraghazra/github-readme-stats)
+[![Shashank's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shawshankkumar)](https://github.com/shawshankkumar/github-readme-stats)
 
