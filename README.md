@@ -9,7 +9,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shawshankkumar&show_icons=true)
 
 
-![Profile views](https://gpvc.arturio.dev/shawshankkumar)
+![Shashank's github stats](https://github-readme-stats.vercel.app/api?username=shawshankkumar&show_icons=true&theme=radical&count_private=true)</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawshankkumar&theme=radical)](https://github.com/shawshankkumar/github-readme-stats)
 
 
