@@ -1,6 +1,8 @@
 ## Hey guys my name is Shashank Kumar :wink:
 
-* I am a **CSE Student**
+* I am a **CSE Student** 
+* Fresher at SRMIST, KTR, Chennai Campus.
+* A beginner backend developer.
 
 * Follow me on [Instagram](https://www.instagram.com/shashankkumarthakur/) or on [LinkedIn](https://www.linkedin.com/in/shawshankkumar/)
 
@@ -8,6 +10,7 @@
 
 
 ![Profile views](https://gpvc.arturio.dev/shawshankkumar)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawshankkumar&theme=radical)](https://github.com/shawshankkumar/github-readme-stats)
 
 
 
