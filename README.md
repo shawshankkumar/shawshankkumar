@@ -5,7 +5,7 @@
 * Java, JavaScript, and TypeScript
 * NoSql: MongoDB
 * React.js and Next.js (learner's phase)
-* Worked with aws lambda, heroku, vercel and linode.
+* Worked with aws lambda, heroku and vercel.
 
 # My projects and open-source contributions:
 * [itnachota (url shortener)](http://itnachota.shashankkumar.xyz/)
