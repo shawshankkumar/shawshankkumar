@@ -1,19 +1,22 @@
-## Hey guys my name is Shashank Kumar :wink:
-
-* I am a **CSE Student** 
-* Fresher at SRMIST, KTR, Chennai Campus.
-* A beginner backend developer.
+ Hi there, I am Shashank Kumar, a developer by night and a CSE fresher at SRMIST by day. I enjoy working and developing web applications(and APIs for all purposes). I also have a sepecial place in my heart for discord bots and try to find ways to automate tasks using them.
 
 # My Tech Stack:
-* Java
-* Node.js with express
-* JavaScript and TypeScript
+* Node.js with express.js, discord.js and many other libraries.
+* Java, JavaScript, and TypeScript
 * NoSql: MongoDB
+* React.js and Next.js (learner's phase)
+* Worked with aws lambda, heroku, vercel and linode.
 
-* Follow me on [Instagram](https://www.instagram.com/shashankkumarthakur/) or on [LinkedIn](https://www.linkedin.com/in/shawshankkumar/)
+# My projects and open-source contributions:
+* [itnachota (url shortener)](http://itnachota.shashankkumar.xyz/)
+* [events portal for tech-analogy](https://events.techanalogy.org/)
+* [Jack](https://jack.srmkzilla.net/)
+* [kzilla.xyz](http://kzilla.xyz/)
+* [GameBot (A truth and dare discord bot)](https://github.com/shawshankkumar/GameBot)
+
+* Follow me on [Instagram](https://www.instagram.com/shashankkumarthakur/) and on [LinkedIn](https://www.linkedin.com/in/shawshankkumar/)
 
 ![Shashank's github stats](https://github-readme-stats.vercel.app/api?username=shawshankkumar&show_icons=true&theme=radical&count_private=true)</br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawshankkumar&theme=radical&count_private=true)
 
 
