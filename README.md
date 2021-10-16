@@ -8,6 +8,7 @@
 * Worked with aws lambda, heroku and vercel.
 
 # My projects and open-source contributions:
+* [Octavia](https://github.com/srm-kzilla/octavia)
 * [itnachota (url shortener)](http://itnachota.shashankkumar.xyz/)
 * [events portal for tech-analogy](https://events.techanalogy.org/)
 * [Jack](https://jack.srmkzilla.net/)
