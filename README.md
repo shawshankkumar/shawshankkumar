@@ -4,8 +4,8 @@
 * Node.js with express.js, discord.js and many other libraries.
 * Java, JavaScript, and TypeScript
 * NoSql: MongoDB
-* React.js and Next.js (learner's phase)
-* Worked with aws lambda, heroku and vercel.
+* React.js and Next.js
+* Worked with aws, heroku and vercel.
 
 # My projects and open-source contributions:
 * [Octavia](https://github.com/srm-kzilla/octavia)
