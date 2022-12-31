@@ -14,7 +14,8 @@
 * [Jack](https://jack.srmkzilla.net/)
 * [kzilla.xyz](http://kzilla.xyz/)
 * [GameBot (A truth and dare discord bot)](https://github.com/shawshankkumar/GameBot)
-
+* [Astro blog theme](https://github.com/robertguss/Astro-Theme-Creek)
+* [Docusaurus](https://github.com/facebook/docusaurus)
 * Follow me on [Instagram](https://www.instagram.com/shashankkumarthakur/) and on [LinkedIn](https://www.linkedin.com/in/shawshankkumar/)
 
 ![Shashank's github stats](https://github-readme-stats.vercel.app/api?username=shawshankkumar&show_icons=true&theme=radical&count_private=true)</br>
