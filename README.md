@@ -9,6 +9,8 @@ Hi there, I am Shashank Kumar, a developer by night and a CSE final year at SRMI
 * TailwindCSS, MUI, Chakra and more
 * Rest APIs, Queues, sockets, Grpc, Pub/Sub and anything required to get the job done
 * MongoDB, Postgres, MySQL, Redis, DynamoDB and other tools as needed
+* I am also adept at using containers, serverless and other deployment strategies (I am an AWS Certified Cloud Practioner).
+* Worked with ETL frameworks like Apache Spark and built a pipeline which won the Barclays Hackathon in my Campus
 
 # My public projects:
 * [Octavia](https://github.com/srm-kzilla/octavia)
