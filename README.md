@@ -1,24 +1,36 @@
- Hi there, I am Shashank Kumar, a developer by night and a CSE fresher at SRMIST by day. I enjoy working and developing web applications(and APIs for all purposes). I also have a sepecial place in my heart for discord bots and try to find ways to automate tasks using them.
+Hi there, I am Shashank Kumar, a developer by night and a CSE final year at SRMIST by day. I enjoy working and developing whatever makes life easy. 
 
 # My Tech Stack:
-* Node.js with express.js, discord.js and many other libraries.
-* Java, JavaScript, and TypeScript
-* NoSql: MongoDB
-* React.js and Next.js
-* Worked with aws, heroku and vercel.
 
-# My projects and open-source contributions:
+* JavaScript and TypeScript on the server side. NodeJS, Deno, Bun and other runtimes
+* Go lang
+* Python, mainly scripting and APIs using FastAPI, Django and db connectors
+* React, Next, Remix and other frontend frameworks and libraries
+* TailwindCSS, MUI, Chakra and more
+* Rest APIs, Queues, sockets, Grpc, Pub/Sub and anything required to get the job done
+* MongoDB, Postgres, MySQL, Redis, DynamoDB and other tools as needed
+
+# My public projects:
 * [Octavia](https://github.com/srm-kzilla/octavia)
 * [itnachota (url shortener)](http://itnachota.shashankkumar.xyz/)
-* [events portal for tech-analogy](https://events.techanalogy.org/)
+* [events and certificate portal for tech-analogy](https://events.techanalogy.org/)
 * [Jack](https://jack.srmkzilla.net/)
-* [kzilla.xyz](http://kzilla.xyz/)
-* [GameBot (A truth and dare discord bot)](https://github.com/shawshankkumar/GameBot)
+* [kzilla.xyz, the best URL shortener in town after dub.sh](http://kzilla.xyz/)
 * [Astro blog theme](https://github.com/robertguss/Astro-Theme-Creek)
-* [Docusaurus](https://github.com/facebook/docusaurus)
-* Follow me on [Instagram](https://www.instagram.com/shashankkumarthakur/) and on [LinkedIn](https://www.linkedin.com/in/shawshankkumar/)
+* [Fury, a remix and go project](https://github.com/srm-kzilla/fury)
+* [A tiny express status validation library](https://github.com/shawshankkumar/express-status-validation)
 
-![Shashank's github stats](https://github-readme-stats.vercel.app/api?username=shawshankkumar&show_icons=true&theme=radical&count_private=true)</br>
+I have contributed to docs/minor fixes to cal.com, formbricks and docasaurus. 
 
+</br>
+<a href="https://www.linkedin.com/in/shawshankkumar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/shashankkumarthakur/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://blogs.shawshankkumar.me/" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"></a>
+</br>
+</br>
 
+![Shashank's github stats](https://github-readme-stats.vercel.app/api?username=shawshankkumar&show_icons=true&theme=radical&count_private=true)
+</br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shawshankkumar&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
